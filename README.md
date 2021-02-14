@@ -7,7 +7,7 @@ Simple show case for listing public repositories from github api
 ##Getting Started
 Please clone this app with:
 
-git clone https://github.com/AbdallaZaki/our-hotels.git
+git clone https://github.com/AbdallaZaki/repositories-list.git
 
 ## Prerequisites
 
